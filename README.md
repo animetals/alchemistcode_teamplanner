@@ -1,5 +1,7 @@
 # alchemistcode_teamplanner
+
 Alchemist Code Team Planner
+
 This Excel File will help you to build a team in the game Alchemis Code, you can compare each unit or the same unit in differents jobs, see its viyr evaluation and see the total of your team by each stat 
 
 1. Check if your unit is already created in the tab Units, if not just add a new row with your unit data
